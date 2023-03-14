@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ferdo</h1>
 <h3 align="center">Software developer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fredkr0ket&label=Profile%20views&color=0e75b6&style=flat" alt="bram-4197" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fredkr0ket&label=Profile%20views&color=0e75b6&style=flat" alt="Fredkr0ket" /> </p>
 
-- 🔭 I’m currently working on [The Monkey Mafia](https://github.com/The-Monkey-Maffia)
+- 🔭 I’m currently working on [The Monkey Mafia](https://github.com/The-Monkey-Maffia) Creating hand motion controls for out platformer game using [Cvzone](https://github.com/cvzone/cvzone)
 
 - 🌱 I’m currently learning **Python**
 
