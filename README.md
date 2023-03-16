@@ -1,6 +1,7 @@
 # 💫 About Me:
-<br>    🔭 I’m currently working on The Monkey Mafia creating hand motion controls for out platformer game using Cvzone<br>    🌱 I’m currently learning Python<br>    💬 Ask me about TypeScript<br>
-
+- 🔭 I’m currently working on [The Monkey Mafia](https://github.com/The-Monkey-Maffia) creating hand motion controls for out platformer game using [Cvzone](https://github.com/cvzone/cvzone)
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about **TypeScript**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdo-van-balen-441879241/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17954412) 
